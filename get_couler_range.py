@@ -1,6 +1,6 @@
 import cv2
 
-file_dir = "./teast_img_1.jpg"
+file_dir = "teast_img_1.jpg"
 # file_dir="teast_2.PNG"
 img = cv2.imread(file_dir)
 
